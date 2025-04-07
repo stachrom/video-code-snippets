@@ -30,7 +30,7 @@
   };
 
   # System localization
-  time.timeZone = "Europe/Berlin";
+  time.timeZone = "America/New_York";
   i18n.defaultLocale = "de_CH.UTF-8";
 
   services.xserver = {
