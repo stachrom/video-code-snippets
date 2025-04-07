@@ -66,7 +66,7 @@
   # Hardware configuration
   hardware = {
     graphics = {
-      enable = true;
+      enable = false;
       enable32Bit = true;
     };
     nvidia = {
